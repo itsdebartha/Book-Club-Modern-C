@@ -7,3 +7,9 @@ presented in the event.
 
 This is all for the preparation of the 
 [R Project Sprint, 2023](https://contributor.r-project.org/r-project-sprint-2023/)
+
+Programs implemented:
+----
+* Merge Sort in C
+* Derivative of a function: The derivative of `sin` has been implemented, with a possible
+  extension to more functions and checking for derivability
