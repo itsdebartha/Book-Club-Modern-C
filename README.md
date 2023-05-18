@@ -13,3 +13,4 @@ Programs implemented:
 * Merge Sort in C
 * Derivative of a function: The derivative of `sin` has been implemented, with a possible
   extension to more functions and checking for derivability
+* Solutions for week - 1 exercises
